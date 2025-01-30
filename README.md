@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @daveth3t3chg33k
-- 👀 I’m interested in emerging technologies in AI...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python pprojects
-- 📫 How to reach me ...
+# 👋 Hey there, I'm David Kamirah! 🚀  
 
-<!---
-daveth3t3chg33k/daveth3t3chg33k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Full-Stack MERN Developer | 🧠 Machine Learning Enthusiast | 🔐 Cybersecurity Explorer  
+
+I'm a passionate **Full-Stack MERN Developer** with a knack for building scalable and high-performance web applications.  
+Currently, I'm diving deeper into **Machine Learning**, **Cybersecurity**, and **Blockchain Development** while sharpening my Rust and Flutter skills.  
+
+---
+
+## 🔥 Tech Stack  
+🚀 **Frontend:** React.js, Next.js, Tailwind CSS  
+⚙️ **Backend:** Node.js, Express.js, GraphQL  
+🛢️ **Databases:** MongoDB, PostgreSQL  
+☁️ **Cloud & DevOps:** Docker, Firebase, AWS  
+📱 **Mobile:** React Native, Flutter (learning)  
+💡 **Other Interests:** Rust, Blockchain, Cybersecurity  
+
+---
+
+## 🌱 Currently Learning  
+🔹 Advanced React & Next.js  
+🔹 Rust for Web & Blockchain Development  
+🔹 Machine Learning & AI  
+🔹 Full-Stack Flutter Development  
+
+---
+
+
+
+## 📫 Let's Connect  
+💼 **Portfolio:** [Coming Soon!]  
+📧 **Email:** kam1rahdav1d@gmail.com
+
+💙 Always open to collaboration and exciting projects. Let's build something great together! 🚀  
