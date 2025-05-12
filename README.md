@@ -28,7 +28,7 @@ Currently, I'm diving deeper into **Machine Learning**, **Cybersecurity**, and *
 
 
 ## 📫 Let's Connect  
-💼 **Portfolio:** [Coming Soon!]  
+💼 **Portfolio:** https://my-portfolio-5vqozpvmb-david-kamirah-s-projects.vercel.app/  
 📧 **Email:** kam1rahdav1d@gmail.com
 
 💙 Always open to collaboration and exciting projects. Let's build something great together! 🚀  
