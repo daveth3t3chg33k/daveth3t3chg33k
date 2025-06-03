@@ -9,7 +9,7 @@ Currently, I'm diving deeper into **Machine Learning**, **Cybersecurity**, and *
 
 ## 🔥 Tech Stack  
 🚀 **Frontend:** React.js, Next.js, Tailwind CSS  
-⚙️ **Backend:** Node.js, Express.js, GraphQL, Golang 
+⚙️ **Backend:** Node.js, Express.js, GraphQL, Golang  
 🛢️ **Databases:** MongoDB, PostgreSQL  
 ☁️ **Cloud & DevOps:** Docker, Firebase, AWS  
 📱 **Mobile:** React Native, Flutter (learning)  
